@@ -1,0 +1,28 @@
+.card-body{
+    display: inline-block;
+
+}
+
+.card{
+    display: inline-block;
+    margin-left: 15px;
+    margin: 30px;
+}
+
+.card img{
+    height: 200px;
+}
+
+.headings li{
+    list-style: none
+    ;
+}
+footer{
+    background-color: green;
+}
+
+.headings a{
+    text-decoration: none;
+    color: black;
+}
+

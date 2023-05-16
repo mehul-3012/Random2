@@ -1,0 +1,119 @@
+.logo img{
+    height: 32px;
+    width: 120px;
+    margin-left: 605px;
+    margin-top: 20px;
+}
+
+nav li{
+    float: left;
+    list-style: none;
+    margin-left: 25px;
+    margin-top: 7px;
+    cursor: pointer;
+
+}
+
+nav li:hover{
+    color: darkslategray;
+}
+
+nav{
+    margin-left: 400px;
+}
+
+header{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    height: 34px;
+    max-width: 100%;
+    background-color: rgb(254, 238, 0);
+
+}
+
+#nav input{
+    height: 24px;
+    width: 175px;
+    margin-left: 180px;
+}
+
+#nav button{
+    height: 28px;
+    width: 60px;
+    cursor: pointer;
+    color: white;
+    background-color: orange;
+    border: none;
+}
+
+.content li{
+    list-style: none;
+    margin-top: 10px;
+    cursor: pointer;
+    margin-left: 10px;
+
+}
+
+.cursor li:hover{
+    background-color: cornflowerblue;
+}
+
+.content{
+    margin-left: 120px;
+    margin-top: 60px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 14%;
+}
+
+.niv3{
+    margin-left: 377px;
+    margin-top: 23px;
+}
+
+.imgs img{
+    height: 400px;
+    width: 80%;
+    margin-right: 240px;
+    cursor: pointer;
+    float: right;}
+
+    .items img{
+        height: 24px;
+        width: 50px;
+    }
+
+    .product h3{
+        text-align: center;
+        margin-top: 130px;
+        background-color: aquamarine;
+        height: 30px;
+        max-width: 110%;
+    }
+
+    .products img{
+        margin-left: 160px;
+        margin-top: 20px;
+        transform: 1.1px;
+        cursor: pointer;
+    }
+
+    .heading h4{
+        margin-left: 220px;
+        font-family: 500;
+        cursor: pointer;
+    }
+
+    .cart button{
+        margin-left: 205px;
+        height: 20px;
+        width: 120px;
+        margin-top: 0%;
+        color: white;
+        background-color: orange;
+        border: none;
+        cursor: pointer;
+
+    }
+
+    .background{
+        background-color: azure;
+    }

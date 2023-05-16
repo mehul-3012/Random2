@@ -1,0 +1,67 @@
+nav li{
+    list-style: none;
+    float: left;
+    margin-left: 50px;
+}
+
+nav a{
+    text-decoration: none;
+    color: black;
+    margin-left: 180px;
+
+}
+
+nav{
+    background-color: brown;
+    overflow: auto;
+    padding: 15px;
+    border-radius: 360px;
+    margin-top: 0px;
+
+    
+}
+
+nav a:hover{
+    color: gold;
+}
+
+.headings h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+.headings{
+    margin-top: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+.headings h1:hover{
+    color: gold;
+    cursor: pointer;
+}
+
+.headings h2:hover{
+    color: Gold;
+    cursor: pointer;
+}
+
+.headings h3:hover{
+    color: gold;
+    cursor: pointer;
+}
+
+.headings h4:hover{
+    color: Gold;
+    cursor: pointer;
+}
+
+.headings h5:hover{
+    color: gold;
+    cursor: pointer;
+}
+
+.headings h6:hover{
+    color: gold;
+    cursor: pointer;
+}

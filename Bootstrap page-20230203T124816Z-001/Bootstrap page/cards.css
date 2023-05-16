@@ -1,0 +1,16 @@
+.card img{
+    height: 200px;
+}
+.card{
+    display:inline-block ;
+    margin-top: 40px;
+    margin-left: 60px;
+    float: left;
+}
+.headings li{
+    list-style: none;
+}
+
+footer{
+    background-color: green;
+}

@@ -1,0 +1,53 @@
+nav li{
+    list-style: none;
+    float: left;
+    margin-left: 60px;
+}
+
+nav a{
+    text-decoration: none;
+    color: black;
+    font-size: 30px ;
+    margin-left: 50px;
+}
+
+nav{
+    background-color: blue;
+    overflow: auto;
+    border-radius: 360px;
+    padding: 20px;
+    margin-top: 5px;
+    
+}
+
+button{
+    float: left;
+}
+
+.offcanvas{
+    background-color: blue;
+}
+
+.footer h2{
+    font-size: 50px;
+    text-align: center;
+    font-style: italic;
+}
+
+.footer{
+    background-color: brown;
+    height: 70px;
+}
+
+.offcanvas-body{
+    background-color: #777;
+}
+
+.carousel-item img{
+ width: 250;
+  height:650px;
+}
+
+.carousel-item{
+    background: #777;
+}

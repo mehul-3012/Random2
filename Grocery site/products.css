@@ -1,0 +1,50 @@
+.left li{
+    list-style: none;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.left a{
+    text-decoration: none;
+    color: white;
+    
+}
+
+.left a:hover{
+    color: gold;
+}
+
+.left{
+    background-color: black;
+    height: 100vh;
+    width: 20%;
+}
+
+.heading img{
+    height: 40px;
+}
+
+.right{
+    width: 80%;
+    float: right;
+}
+
+.heading thead{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.dark th{
+    margin-left: 60px;
+}
+
+.dark img{
+    height: 40px;
+}
+
+.dark td img{
+    height: 40px;
+}
+
+td img{
+    height: 40px;
+}

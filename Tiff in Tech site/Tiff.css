@@ -1,0 +1,52 @@
+.left img{
+    height: 23px;
+    max-width: 100%;
+    vertical-align: middle;
+    display: inline-block;
+    margin-right: 40px;
+}
+
+.left li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 5px;
+    padding-right: 12px;
+    padding-top: 4px;
+    cursor: pointer;
+}
+
+.left li:hover{
+    text-decoration: underline;
+    color: #0082f3;;
+}
+
+.left{
+margin-top: 40px;
+}
+
+.container{
+    max-width: 80vw;
+    margin:auto
+}
+
+#flex i{
+    float: right;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.icons i{
+    cursor: pointer;
+}
+
+.container{
+    background-image: url(rr.jpeg);
+    background-repeat: no-repeat;
+    overflow: auto;
+
+}
+
+body{
+    overflow: auto;
+}
